@@ -1,5 +1,4 @@
 # ALX Listing App
-
 This is a simple Airbnb-style listing app built with Next.js and Tailwind CSS.
 
 ## 📁 Project Structure
@@ -9,3 +8,4 @@ This is a simple Airbnb-style listing app built with Next.js and Tailwind CSS.
 - `constants/`: Reusable static data like titles, URLs, and sample listings.
 - `public/assets/`: Contains static images such as placeholder listings.
 - `pages/`: Includes the main listing page (`index.tsx`).
+# alx-listing-app
